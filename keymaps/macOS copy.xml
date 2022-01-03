@@ -1,6 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" second-keystroke="b" />
   </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" second-keystroke="ctrl meta alt p" />
